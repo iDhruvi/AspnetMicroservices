@@ -1,4 +1,4 @@
-using Discount.API.Extentions;
+using Discount.API.Extensions;
 using Discount.API.Repositories;
 
 //var host = Host.CreateDefaultBuilder(args).Build();

@@ -1,4 +1,4 @@
-using Discount.Grpc.Extentions;
+using Discount.Grpc.Extensions;
 using Discount.Grpc.Repositories;
 using Discount.Grpc.Services;
 
